@@ -1,12 +1,11 @@
-import { validate } from '@babel/types';
 import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
 
 function Contact() {
    const [formState, setFormState] = useState({
-      name: 'Jaden Robison',
-      email: 'jadenrobison8@gmail.com',
+      name: '',
+      email: '',
       message: ''
    });
 

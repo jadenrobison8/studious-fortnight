@@ -1,17 +1,18 @@
 import React from 'react';
+import Profile from '../../assets/profile/profile.jpg';
 
 function About() {
    return (
       <section className="my-5">
          <div className="my-2">
             <div className="profile-img my-5">
-               <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+               <img src={Profile} alt=" " style={{ fontSize: "96px" }}></img>
             </div>
             <p>
-               Paragraph 1
+               I am a MERN Full Stack Developer, graduated from the Univerty of Utah Coding Bootcamp. I have an Associates degree in Pre-Engineering
             </p>
             <p>
-               paragraph 2
+               I have learned many languages any technologies through engineering, including: Java, C++, Python, R, VHDL, and many others. 
             </p>
          </div>
       </section>

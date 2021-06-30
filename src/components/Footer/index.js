@@ -9,12 +9,9 @@ function Footer() {
       },
       {
          name: "fab fa-linkedin",
-         link: ""
+         link: "http://linkedin.com/in/jaden-robison-a460b3184"
       },
-      // {
-      //    name: "fab fa-stack-overflow",
-      //    link: ""
-      // }
+   
    ]
 
    return (

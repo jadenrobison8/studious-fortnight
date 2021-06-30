@@ -1,25 +1,23 @@
 {
   "name": "studious-fortnight",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jadenrobison8/studious-fortnight.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jadenrobison8/studious-fortnight/issues"
   },
-  "homepage": "https://github.com/jadenrobison8/studious-fortnight#readme",
   "dependencies": {
     "express": "^4.17.1",
     "react": "^17.0.2",
