@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/studious-fortnight/static/css/main.c58e96bb.chunk.css",
+    "main.js": "/studious-fortnight/static/js/main.f8ffaa1d.chunk.js",
+    "main.js.map": "/studious-fortnight/static/js/main.f8ffaa1d.chunk.js.map",
+    "runtime-main.js": "/studious-fortnight/static/js/runtime-main.a0247ad3.js",
+    "runtime-main.js.map": "/studious-fortnight/static/js/runtime-main.a0247ad3.js.map",
+    "static/js/2.8e5c9c15.chunk.js": "/studious-fortnight/static/js/2.8e5c9c15.chunk.js",
+    "static/js/2.8e5c9c15.chunk.js.map": "/studious-fortnight/static/js/2.8e5c9c15.chunk.js.map",
+    "index.html": "/studious-fortnight/index.html",
+    "static/css/main.c58e96bb.chunk.css.map": "/studious-fortnight/static/css/main.c58e96bb.chunk.css.map",
+    "static/js/2.8e5c9c15.chunk.js.LICENSE.txt": "/studious-fortnight/static/js/2.8e5c9c15.chunk.js.LICENSE.txt",
+    "static/media/entertainment-720.jpg": "/studious-fortnight/static/media/entertainment-720.13171e6c.jpg",
+    "static/media/plant-daddy.jpg": "/studious-fortnight/static/media/plant-daddy.94982bc8.jpg",
+    "static/media/profile.f2f7cb6c.jpg": "/studious-fortnight/static/media/profile.f2f7cb6c.jpg",
+    "static/media/run-buddy.jpg": "/studious-fortnight/static/media/run-buddy.b57f2b88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0247ad3.js",
+    "static/js/2.8e5c9c15.chunk.js",
+    "static/css/main.c58e96bb.chunk.css",
+    "static/js/main.f8ffaa1d.chunk.js"
+  ]
+}
