@@ -21,12 +21,12 @@ function Portfolio() {
          link: 'https://uofu-plant-daddy.herokuapp.com/',
          repo: 'https://github.com/alyssawinn/plant-daddy'
       },
-      // {
-      //    name: 'Wallpaper-market',
-      //    description: 'MERN SPA',
-      //    link: '',
-      //    repo: ''
-      // },
+      {
+         name: 'wallpaper-market',
+         description: 'MERN SPA',
+         link: '',
+         repo: 'https://github.com/LyleKilson/wallpaper-market'
+      },
       // {
       //    name: '',
       //    description: '',
