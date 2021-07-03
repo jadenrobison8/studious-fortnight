@@ -12,7 +12,7 @@ React Portfolio
 
 ## Usage
 You can visit my portfolio here
-http://jadenrobison.github.io/studious-fortnight
+https://jadenrobison8.github.io/studious-fortnight/
 
 ## Questions
 Github: github.com/jadenrobison8  
